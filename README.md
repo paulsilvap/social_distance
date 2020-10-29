@@ -13,4 +13,4 @@ Once you download the weights, put them in the yolo-coco folder on your local re
 -scipy
 -imutils
 
-This can be installed using pip.
+These can be installed using pip.
