@@ -1,10 +1,8 @@
 from lab import social_distancing_config as config
 from lab.detection import detect_people
-# Instruction to install scipy missing
 from scipy.spatial import distance as dist
 import numpy as np
 import argparse
-# Instruction to install imutils missing
 import imutils
 import cv2
 import os
